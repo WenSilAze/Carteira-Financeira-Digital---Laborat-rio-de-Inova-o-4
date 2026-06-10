@@ -26,7 +26,4 @@ Você pode **alterar manualmente os valores** de depósitos e saques e visualiza
 1. Cadastre um projeto (ex: "Reforma da casa").  
 2. Insira manualmente os valores de **depósitos** (entradas) e **saques** (saídas).  
 3. Acompanhe no **gráfico** como o saldo evolui ao longo do tempo.
-4. 
 ---
-
-Esse formato já fica bem direto e profissional. Se quiser, posso criar uma **versão em inglês** também para deixar o projeto mais acessível a outros desenvolvedores. Deseja que eu prepare essa tradução?
